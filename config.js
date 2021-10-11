@@ -1,16 +1,16 @@
 const CONFIG = {
-    introTitle: 'Helu Baeeeeeeee',
-    introDesc: `Hôm nay ngày 11/10/2021 và hôm nay bé đã được 22 chủi.`,
+    introTitle: 'Helu Mỡ Mỡ',
+    introDesc: `Hôm nay là sinh nhật 23 chủiiii.`,
     btnIntro: 'hihihihihihihihi',
-    title: 'Happy Birthday Bé iuuuu 😘😘',
-    desc: 'From Bé Trí with loveeeeee 😘😘',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới có 7 tỷ người mà sao ta gặp đc nhaooo',
-    btnReply: 'Gửi cho bé nà <3',
-    reply: 'chắc do 2 mình có duyên áaaaaa',
-    mess: 'Biết oyyyy 🥰. Thương bé êu nhều 😘😘',
-    messDesc: 'Chiều chiều bé sẽ mua gì mang qua cho nhennnnnnn qua gọi. Chúc bé có 1 sinh nhật thật hạnh phúc',
+    title: 'Happy Birthday Mỡ nhaaaaa',
+    desc: 'From Minh Trí with luv :P ',
+    btnYes: 'Tiếp tục nèeee :>',
+    btnNo: 'Nghỉ hoyyy :<',
+    question:'Tại làm sao mà mình biết nhao dạaaa',
+    btnReply: 'Gửi cho bạn mình :>',
+    reply: 'chắc do 2 mình có duyên á hì hì :>',
+    mess: 'Biết oyyyy haha. Chúc Linh Linh sẽ có 1 sinh nhật thật dui nha',
+    messDesc: 'Mong rằng mọi điều tốt đẹp từ công việc cho đến mọi chuyện sẽ đếnnnn',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com/tristana.tran1507' 
-}
+}�
