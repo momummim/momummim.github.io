@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: `Hôm nay là sinh nhật 23 chủiiii.`,
     btnIntro: 'hihihihihihihihi',
     title: 'Happy Birthday Mỡ nhaaaaa',
-    desc: 'From Minh Trí with luv :P ',
+    desc: 'From Minhh Tri with luv :P ',
     btnYes: 'Tiếp tục nèeee :>',
     btnNo: 'Nghỉ hoyyy :<',
     question:'Tại làm sao mà mình biết nhao dạaaa',
