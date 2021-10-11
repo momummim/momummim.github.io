@@ -13,4 +13,4 @@ const CONFIG = {
     messDesc: 'Mong rằng mọi điều tốt đẹp từ công việc cho đến mọi chuyện sẽ đếnnnn',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com/tristana.tran1507' 
-}�
+}
